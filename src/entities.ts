@@ -1,0 +1,7 @@
+export enum Entity {
+  CONTAINER,
+  SPRITE,
+  PARTICLE_CONTAINER,
+  ANIMATED_SPRITE,
+  GRAPHICS,
+}
